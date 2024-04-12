@@ -6,6 +6,9 @@ Git:
 
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
+
+Set:
+1) https://t.me/c/1937296927/1/5742
 ==================================
 Python (получить сертификат*):
 1)https://karpov.courses/pythonzero
